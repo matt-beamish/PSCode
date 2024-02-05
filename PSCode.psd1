@@ -5,6 +5,8 @@
 #
 # Generated on: 12/29/2017
 #
+# Updated by Matt Beamish (matt.beamish@uwa.edu.au), 5/02/2024
+#
 
 @{
 
@@ -12,7 +14,7 @@
 RootModule = 'PSCode.psm1'
 
 # Version number of this module.
-ModuleVersion = '1.0.10'
+ModuleVersion = '1.0.11'
 
 # Supported PSEditions
 # CompatiblePSEditions = @()
@@ -21,10 +23,10 @@ ModuleVersion = '1.0.10'
 GUID = '3ce656ae-939c-43d6-afd0-f907822545a0'
 
 # Author of this module
-Author = 'William T Jones'
+Author = 'William T Jones, Matt Beamish'
 
 # Company or vendor of this module
-CompanyName = 'Unknown'
+CompanyName = ''
 
 # Copyright statement for this module
 Copyright = '(c) 2021 William T Jones. All rights reserved.'
@@ -98,10 +100,10 @@ PrivateData = @{
         Tags = 'vscode','VisualStudioCode','UNC'
 
         # A URL to the license for this module.
-        LicenseUri = 'https://raw.githubusercontent.com/wtjones/PSCode/master/LICENSE.txt'
+        LicenseUri = 'https://raw.githubusercontent.com/matt-beamish/PSCode/master/LICENSE.txt'
 
         # A URL to the main website for this project.
-        ProjectUri = 'https://github.com/wtjones/PSCode'
+        ProjectUri = 'https://github.com/matt-beamish/PSCode'
 
         # A URL to an icon representing this module.
         # IconUri = ''
